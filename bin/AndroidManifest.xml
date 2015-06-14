@@ -22,6 +22,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="edu.continental.layountAndroid.RelativeLayount"
+            android:label="@string/title_activity_relativ_layount" >
+        </activity>
+        <activity
+            android:name="edu.continental.layountAndroid.AbsoluteLayount"
+            android:label="@string/title_activity_absolute_layount" >
+        </activity>
+        <activity
+            android:name="edu.continental.layountAndroid.TableLayount"
+            android:label="@string/title_activity_table_layount" >
+        </activity>
+        <activity
+            android:name="edu.continental.layountAndroid.FrameLayount"
+            android:label="@string/title_activity_frame_layount" >
+        </activity>
     </application>
 
 </manifest>
